@@ -30,10 +30,13 @@ body, h1, h2, p, ul, li {
     
     
   }
+  a{
+    text-decoration: none;
+    color: black;
+  }
   
   nav ul li a {
     color: #fff;
-    text-decoration: none;
     padding-right: 20%;
     letter-spacing: 10%;
   }
